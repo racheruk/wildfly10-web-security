@@ -7,7 +7,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * Created by rakeshcherukuri on 16/04/16.
  */
-public class CreateHash {
+public class Hash {
 
   public static String createWildFlyPasswordHash(String userName, String password) {
     String output = null;
