@@ -10,6 +10,7 @@
   <modules>
     <module>basic-authentication</module>
     <module>basic-db-authentication</module>
+    <module>basic-custom-list-authentication</module>
   </modules>
   <packaging>pom</packaging>
 
