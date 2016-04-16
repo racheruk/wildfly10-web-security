@@ -16,7 +16,7 @@
   <security-constraint>
     <web-resource-collection>
       <web-resource-name>all</web-resource-name>
-      <url-pattern>/*</url-pattern>
+      <url-pattern>/secured/*</url-pattern>
       <http-method>GET</http-method>
     </web-resource-collection>
     <auth-constraint>
