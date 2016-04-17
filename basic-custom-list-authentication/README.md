@@ -45,3 +45,4 @@ This module demonstrates how to achieve authentication in WildFly10 using BASIC 
 </jboss-web>
 ```
  - Start WildFly and deploy the application
+ - Access `http://localhost:8080/basic-db-authentication/secured/secured.html`
