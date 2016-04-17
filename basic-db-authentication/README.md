@@ -2,6 +2,11 @@
 
 This module demonstrates how to achieve authentication in WildFly10 using BASIC auhtentication but with user and role information stoed in DB
 
+## Environment Used
+
+    WildFly 10.0.0.Final
+    MySQL 5.6.27
+
 ## Steps
 
  - Create a web module that has protected and unprotected resources
