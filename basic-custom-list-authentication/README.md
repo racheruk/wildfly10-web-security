@@ -1,4 +1,4 @@
-# Basic Authentication using application provided user base
+# Basic Authentication using application provided users and roles list
 
 This module demonstrates how to achieve authentication in WildFly10 using BASIC auhtentication but with application provided users
 
