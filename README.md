@@ -2,6 +2,8 @@
 
 From my experience, it was never easy to work with WildFly in a little bit involved configuration areas. This applies to authentication too.
 
+Each module stands complete in itself. All the modules are tested using `WildFly 10.0.0.Final` but they should be good enough in some of the older versions too i.e. WildFly 8 and 9.
+
 ## Modules
 Brief introduction to the modules
 ### basic-authentication
